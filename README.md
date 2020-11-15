@@ -355,6 +355,9 @@ worker-node1   Ready    <none>   2m8s   v1.19.3
 worker-node2   Ready    <none>   92s    v1.19.3
 ```
 
+# ToDo
+Create terraform package for it.  
+
 # Appendix
 ## some troubleshooting steps  
 ##### add ip to cert
